@@ -1,3 +1,5 @@
+This small program will turn ranked wells into a list of wells for a given set of rigs to drill. Included is a sample data set.
+
 Instructions:
 
 Input the well list in the following format:
